@@ -1,0 +1,11 @@
+.output {
+    margin: auto;
+    text-align: center;
+}
+
+.input-panel {
+    margin: 10px;
+    border: 1px solid;
+    border-radius: 15px;
+    padding: 20px;
+}
